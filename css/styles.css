@@ -1,5 +1,5 @@
 :root {
-    --rojo-cuc: #A3161A;
+    --rojo-cuc: #1653a3;
     --gris-cuc: #595959;
     --gris-claro: #F5F5F5;
     --blanco: #FFFFFF;
@@ -12,7 +12,7 @@
 }
 
 body {
-    font-family: "Red Hat Display", Arial, sans-serif;
+    font-family: "Montserrat", Arial, sans-serif;
     background: var(--gris-claro);
     color: var(--gris-cuc);
     min-height: 100vh;
